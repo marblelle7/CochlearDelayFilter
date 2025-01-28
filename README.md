@@ -8,7 +8,9 @@ An all-pass filter simulating cochlear delay characteristics.
 
 
 ## GUI Overview
-<img src="PluginGui-1.png" alt="GUI Screenshot" width="300">
+<div align="center">
+    <img src="PluginGui-1.png" alt="GUI Screenshot" width="500">
+</div>
 
 ## Parameter Descriptions
 Below are the details about the roles and usage of each knob (parameter).
