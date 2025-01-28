@@ -13,7 +13,7 @@ An all-pass filter simulating cochlear delay characteristics.
 </div>
 
 ## Parameter Descriptions
-Below are the details about the roles and usage of each knob (parameter).
+Below are the details about the roles and usage of each knob.
 
 ### 1. **Level**
 - **Role**: Adjusts the volume of the processed audio signal.
