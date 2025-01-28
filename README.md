@@ -30,7 +30,6 @@ Below are the details about the roles and usage of each knob.
 
 ### 3. **ON/OFF**
 - **Role**: Toggles the filter on or off.
-- **Range**: ON / OFF
 - **Description**:
   - When set to **ON**, the filter is enabled.
   - When set to **OFF**, the filter is bypassed, and the original signal is output without processing.
