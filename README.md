@@ -8,9 +8,7 @@ An all-pass filter simulating cochlear delay characteristics.
 
 
 ## GUI Overview
-
-
-The GUI includes several knobs for controlling the filter parameters.
+![GUI Screenshot](https://github.com/marblelle7/CochlearDelayFilter/blob/main/PluginGui.pdf)
 
 ## Parameter Descriptions
 Below are the details about the roles and usage of each knob (parameter).
