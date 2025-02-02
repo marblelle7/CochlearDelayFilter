@@ -9,7 +9,7 @@ An all-pass filter simulating cochlear delay characteristics.
 
 ## GUI Overview
 <div align="center">
-    <img src="CochlearDelayFilterGUI.png" alt="GUI Screenshot" width="300">
+    <img src="GUI_image.png" alt="GUI Screenshot" width="300">
 </div>
 
 ## Parameter Descriptions
@@ -17,7 +17,7 @@ Below are the details about the roles and usage of each knob.
 
 ### 1. **Level**
 - **Role**: Adjusts the volume of the processed audio signal.
-- **Range**: -40 dB ～ 6 dB
+- **Range**: -40 ～ 6 dB
 - **Description**: This knob allows you to increase or decrease the volume of the filtered signal.
 
 ### 2. **Effect Level**
