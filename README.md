@@ -17,7 +17,7 @@ Below are the details about the roles and usage of each knob.
 
 ### 1. **Level**
 - **Role**: Adjusts the volume of the processed audio signal.
-- **Range**: 0% ～ 100%
+- **Range**: -40 dB ～ 6 dB
 - **Description**: This knob allows you to increase or decrease the volume of the filtered signal.
 
 ### 2. **Effect Level**
